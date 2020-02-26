@@ -6,7 +6,6 @@ public class FTPUploader {
     private String fileToUpload;
 
     public void connectToFTP() {
-
     }
 
     public void uploadFile() {
